@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Quirko';
+    src: url('Quirko.eot');
+    src: url('Quirko.eot?#iefix') format('embedded-opentype'),
+        url('Quirko.woff2') format('woff2'),
+        url('Quirko.woff') format('woff'),
+        url('Quirko.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
